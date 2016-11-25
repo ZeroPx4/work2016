@@ -1,0 +1,45 @@
+body{
+    padding: 20px;
+    font-size: 15px;
+}
+h2{
+    margin: 0px;
+}
+#center{
+    margin:0 auto;
+    padding: 20px;
+    background:#eee;
+    border: 1px solid #999;
+    overflow: auto;
+    min-width: 600px;
+}
+.team_logo {
+    float: left;
+}
+
+.left{
+    width: 160px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #999;
+    float: left;
+}
+.right{
+    width: 120px;
+    float: right;
+    background-color: #fff;
+    border: 1px solid #999;
+}
+.damon{
+    background: #fff;
+    display: block;
+    margin: 20px;
+    border: 1px solid #999;
+}
+.middle{
+    padding:20px;
+    margin-left: 220px;
+    margin-right: 140px;
+    background-color: #fff;
+    border: 1px solid #999;
+}

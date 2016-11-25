@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    height: 240px;
+    width: 500px;
+    position:absolute;
+    background-color: #ccc;
+    top:50%;
+    margin-top: -100px;
+    left:50%;
+    margin-left: -200px;
+
+}
+.left_top{
+    width: 64px;
+    height: 64px;
+    border-radius: 0 0 64px 0;
+    position: absolute;
+    background-color: #FC0;
+}
+.right_bottom{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 64px;
+    height: 64px;
+    border-radius: 64px 0 0 0;
+    background-color: #FC0;
+}

@@ -1,0 +1,33 @@
+form {
+    margin: auto;
+    width: 600px;
+    height: 65px;
+    font-size: 24px;
+}
+input {
+    width:300px;
+    height:30px;
+    margin:20px;
+    border-radius: 7px;
+    border:1px solid rgba(198, 202, 220, 0.35);
+}
+input:focus{
+    border:1px solid rgba(181, 187, 216, 0.9);
+    border-radius: 7px;
+    outline:none;
+}
+button {
+    border: 1px solid rgba(34, 71, 255, 0.35);
+    background-color: rgba(34, 71, 255, 0.35);
+    width: 150px;
+    height: 40px;
+    font-size: 24px;
+    color: white;
+    letter-spacing: 10px;
+    border-radius: 7px;
+}
+#result{
+    margin-left: 540px;
+    font-weight: bold;
+    color:rgba(128, 128, 128, 0.52);
+}
